@@ -1,2 +1,2 @@
 # Zomato-Clone
-A clone of zomato using HTML, CSS and JavaScript.
+A clone of Zomato using HTML and CSS.
